@@ -1,0 +1,8 @@
+.DS_Store
+.vscode
+study-c.code-workspace
+*/*.dSYM/Contents
+
+
+test-001/test01
+
